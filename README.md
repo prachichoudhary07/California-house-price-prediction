@@ -8,6 +8,10 @@ Machine Learning model based on Linear Regression.
 The model is trained using the California Housing dataset from
 Scikit-learn and deployed as a web application using Flask.
 
+## Live Demo
+
+Try the deployed application here: https://california-house-price-prediction-56co.onrender.com
+
 ## Technologies Used
 - Python
 - Pandas and NumPy
